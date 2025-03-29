@@ -33,7 +33,7 @@ const ContactUs = () => {
                 <h6 className="body-2 ml-5">Call Us</h6>
               </div>
               <p className="body-2 mt-3 text-n-4">
-                Call us at +91 7620268492 between 9 AM and 5 PM, Monday to Friday.
+                Call us at  +91 7620268492 between 9 AM and 5 PM, Monday to Friday.
               </p>
             </li>
 
